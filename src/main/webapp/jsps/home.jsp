@@ -12,7 +12,7 @@
 <h2 align="center">DevOp is all about the culture that we have to adapt in other to accept the change.(AUTOMATION).</h2>
 <h1 align="center">Welcome to Samueltech Web application Project30 automation.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
+	           We are raising millionaires in IT automation. AND I LOVE DevOps
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. Automation is here to stay</h1>
 <hr>
 <br>
